@@ -1,0 +1,42 @@
+com.android.esercitazione24_05_06.app-appcompat-1.6.1-0 /Users/antoniovirga/.gradle/caches/transforms-4/04716c5baa9a359354fd7c5e11977389/transformed/appcompat-1.6.1/res
+com.android.esercitazione24_05_06.app-cardview-1.0.0-1 /Users/antoniovirga/.gradle/caches/transforms-4/08fc0fb91c661fc6b8b5a934ae2b64af/transformed/cardview-1.0.0/res
+com.android.esercitazione24_05_06.app-lifecycle-livedata-core-2.6.2-2 /Users/antoniovirga/.gradle/caches/transforms-4/25abdb6ac8fd90615e095a96d8cd3ee5/transformed/lifecycle-livedata-core-2.6.2/res
+com.android.esercitazione24_05_06.app-lifecycle-runtime-ktx-2.6.2-3 /Users/antoniovirga/.gradle/caches/transforms-4/28ade7334d1eb984e7faed0d2ceec7b5/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.android.esercitazione24_05_06.app-activity-1.8.0-4 /Users/antoniovirga/.gradle/caches/transforms-4/2da6a4ab4d88d06c8ac40e61ed22d9b3/transformed/activity-1.8.0/res
+com.android.esercitazione24_05_06.app-lifecycle-viewmodel-ktx-2.6.2-5 /Users/antoniovirga/.gradle/caches/transforms-4/425264ee12e8ad291b4132f5a663852b/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.android.esercitazione24_05_06.app-lifecycle-livedata-ktx-2.6.2-6 /Users/antoniovirga/.gradle/caches/transforms-4/4ad1185d042529be35f25927a02e6cec/transformed/lifecycle-livedata-ktx-2.6.2/res
+com.android.esercitazione24_05_06.app-core-runtime-2.2.0-7 /Users/antoniovirga/.gradle/caches/transforms-4/4bc89834bbc54d93e36ea632cf0403e4/transformed/core-runtime-2.2.0/res
+com.android.esercitazione24_05_06.app-lifecycle-viewmodel-savedstate-2.6.2-8 /Users/antoniovirga/.gradle/caches/transforms-4/4ec7fc8170f4f36c28393667eeb19dd8/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.android.esercitazione24_05_06.app-transition-1.2.0-9 /Users/antoniovirga/.gradle/caches/transforms-4/50283cf922935e559a2b97570a8703be/transformed/transition-1.2.0/res
+com.android.esercitazione24_05_06.app-recyclerview-1.1.0-10 /Users/antoniovirga/.gradle/caches/transforms-4/50402f429fae638fdb8701191b5fa4e6/transformed/recyclerview-1.1.0/res
+com.android.esercitazione24_05_06.app-appcompat-resources-1.6.1-11 /Users/antoniovirga/.gradle/caches/transforms-4/5d1441ee9dc317e9bb288964e3f17142/transformed/appcompat-resources-1.6.1/res
+com.android.esercitazione24_05_06.app-savedstate-ktx-1.2.1-12 /Users/antoniovirga/.gradle/caches/transforms-4/5d6d333f256f9c7f8d205d3694d39d71/transformed/savedstate-ktx-1.2.1/res
+com.android.esercitazione24_05_06.app-viewpager2-1.0.0-13 /Users/antoniovirga/.gradle/caches/transforms-4/64aea59466a52e9986d7698d0008dfd7/transformed/viewpager2-1.0.0/res
+com.android.esercitazione24_05_06.app-drawerlayout-1.1.1-14 /Users/antoniovirga/.gradle/caches/transforms-4/6b2e5bbb2f524990a1734062852c9f5e/transformed/drawerlayout-1.1.1/res
+com.android.esercitazione24_05_06.app-constraintlayout-2.1.4-15 /Users/antoniovirga/.gradle/caches/transforms-4/808b190656dc8b9fc946b4493541d20e/transformed/constraintlayout-2.1.4/res
+com.android.esercitazione24_05_06.app-emoji2-views-helper-1.2.0-16 /Users/antoniovirga/.gradle/caches/transforms-4/8437d6b9365feba95542d8baf1881b41/transformed/emoji2-views-helper-1.2.0/res
+com.android.esercitazione24_05_06.app-startup-runtime-1.1.1-17 /Users/antoniovirga/.gradle/caches/transforms-4/853be41ca53730c42228f4c39604cedf/transformed/startup-runtime-1.1.1/res
+com.android.esercitazione24_05_06.app-lifecycle-process-2.6.2-18 /Users/antoniovirga/.gradle/caches/transforms-4/93644285f15b01cc139a9093adb8c27e/transformed/lifecycle-process-2.6.2/res
+com.android.esercitazione24_05_06.app-coordinatorlayout-1.1.0-19 /Users/antoniovirga/.gradle/caches/transforms-4/956a9975c9449c520e00c61f93974350/transformed/coordinatorlayout-1.1.0/res
+com.android.esercitazione24_05_06.app-lifecycle-viewmodel-2.6.2-20 /Users/antoniovirga/.gradle/caches/transforms-4/97437141041778cf008c15b65764f653/transformed/lifecycle-viewmodel-2.6.2/res
+com.android.esercitazione24_05_06.app-fragment-ktx-1.6.2-21 /Users/antoniovirga/.gradle/caches/transforms-4/a4ca1bcbeec718e18a2f2042a3166712/transformed/fragment-ktx-1.6.2/res
+com.android.esercitazione24_05_06.app-media-1.0.0-22 /Users/antoniovirga/.gradle/caches/transforms-4/a9718aabde75a814a3f10e657bfe099c/transformed/media-1.0.0/res
+com.android.esercitazione24_05_06.app-lifecycle-livedata-2.6.2-23 /Users/antoniovirga/.gradle/caches/transforms-4/add53b453c8b6750cc1d85f65bb30d14/transformed/lifecycle-livedata-2.6.2/res
+com.android.esercitazione24_05_06.app-core-ktx-1.13.0-24 /Users/antoniovirga/.gradle/caches/transforms-4/b44357c833d6749309925ca4d38ca7ff/transformed/core-ktx-1.13.0/res
+com.android.esercitazione24_05_06.app-activity-ktx-1.8.0-25 /Users/antoniovirga/.gradle/caches/transforms-4/ba8dcb3e195ba67957f87e1442d04aae/transformed/activity-ktx-1.8.0/res
+com.android.esercitazione24_05_06.app-fragment-1.6.2-26 /Users/antoniovirga/.gradle/caches/transforms-4/c5a4e3aa46ee6ec60dbe7bf300cf64e5/transformed/fragment-1.6.2/res
+com.android.esercitazione24_05_06.app-lifecycle-livedata-core-ktx-2.6.2-27 /Users/antoniovirga/.gradle/caches/transforms-4/d19e5231280cc85429f22d5ba949c9e4/transformed/lifecycle-livedata-core-ktx-2.6.2/res
+com.android.esercitazione24_05_06.app-savedstate-1.2.1-28 /Users/antoniovirga/.gradle/caches/transforms-4/d3da3ce6195b0de534b7024cf7205b78/transformed/savedstate-1.2.1/res
+com.android.esercitazione24_05_06.app-annotation-experimental-1.4.0-29 /Users/antoniovirga/.gradle/caches/transforms-4/d3e54080761ced93cca5c2f37421596f/transformed/annotation-experimental-1.4.0/res
+com.android.esercitazione24_05_06.app-material-1.11.0-30 /Users/antoniovirga/.gradle/caches/transforms-4/d450ba68c95fe3342cbce9ad9c93458b/transformed/material-1.11.0/res
+com.android.esercitazione24_05_06.app-core-1.13.0-31 /Users/antoniovirga/.gradle/caches/transforms-4/dd6a33cf001b88d11637d8a36c02e83c/transformed/core-1.13.0/res
+com.android.esercitazione24_05_06.app-lifecycle-runtime-2.6.2-32 /Users/antoniovirga/.gradle/caches/transforms-4/e28b462746950471192be743b2499813/transformed/lifecycle-runtime-2.6.2/res
+com.android.esercitazione24_05_06.app-emoji2-1.2.0-33 /Users/antoniovirga/.gradle/caches/transforms-4/fd70dd71c6b98e7464f25a7cfda55e9e/transformed/emoji2-1.2.0/res
+com.android.esercitazione24_05_06.app-profileinstaller-1.3.0-34 /Users/antoniovirga/.gradle/caches/transforms-4/ffe1adb336d74250603111085b8542c2/transformed/profileinstaller-1.3.0/res
+com.android.esercitazione24_05_06.app-pngs-35 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/build/generated/res/pngs/debug
+com.android.esercitazione24_05_06.app-resValues-36 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/build/generated/res/resValues/debug
+com.android.esercitazione24_05_06.app-packageDebugResources-37 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.android.esercitazione24_05_06.app-packageDebugResources-38 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.android.esercitazione24_05_06.app-debug-39 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.android.esercitazione24_05_06.app-debug-40 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/src/debug/res
+com.android.esercitazione24_05_06.app-main-41 /Users/antoniovirga/Desktop/web mobile/AndroidStudioProjects/Esercitazione24_05_06/app/src/main/res

@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable hotel
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id ListaBtn
+id Preferiti_Btn
+id fragmentContainerView
+id frameLayout
+id guideline
+id imageView
+id main
+id nome
+id position
+id punteggio
+id ratingBar
+id recensioni
+id recyclerview
+layout activity_main
+layout fragment_hotel_list
+layout hotel_item_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Esercitazione24_05_06
+style Theme.Esercitazione24_05_06
+xml backup_rules
+xml data_extraction_rules
